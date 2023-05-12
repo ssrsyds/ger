@@ -147,9 +147,9 @@ const DEFAULT_CONFIG: ChatConfig = {
   disablePromptHint: false,
 
   modelConfig: {
-    model: "gpt-3.5-turbo",
+    model: "gpt-4",
     temperature: 1,
-    max_tokens: 3096,
+    max_tokens: 3999,
     presence_penalty: 0,
   },
 };
